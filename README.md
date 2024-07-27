@@ -1,16 +1,24 @@
-## Hi there 👋
+I'm Frontend Developer!
+Languages and Tools
+!HTML5
+!CSS
+!SASS
+!BOOTSTRAP
+!GIT
+!SVG
+!JavaScript
+!DOM
 
-<!--
-**EmberaK/EmberaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+<h1>Hillel IT School</h1>
+<h2>Front-end Basic</h2>
+There I learned how to translate designs
+of any complexity into layout, make
+websites that display equally well on any
+device, notice important little things and
+write code that is easy to expand and
+maintain, understand the structure of
+web pages.
+<br>
