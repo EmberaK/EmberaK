@@ -4,7 +4,7 @@
     src="https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg"
     alt="a girl with a laptop" width=100% />
   <iframe width="560" height="315" src="https://www.youtube.com/embed/8wvMmsWkROw?si=56tEgKgP0lfgf6AR" title="YouTube video player" autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    ![Описание GIF](https://www.youtube.com/embed/8wvMmsWkROw?si=56tEgKgP0lfgf6AR))
+    ![Описание GIF](https://www.youtube.com/embed/8wvMmsWkROw?si=56tEgKgP0lfgf6AR)
 </div>
 <br>
 <br>
