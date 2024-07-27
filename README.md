@@ -18,7 +18,7 @@ I'm Frontend Developer!
     <img src="https://img.shields.io/badge/CSS/SCSS-red?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS/SCSS Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/BOOTSTRAP-blue?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="BOOTSTRAP Badge"/>
+    <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="BOOTSTRAP Badge"/>
   </a>
 </div>
 
