@@ -3,6 +3,9 @@
   <img
     src="https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg"
     alt="a girl with a laptop" width=100% />
+  <img id="gifImage" alt="Animated GIF">
+
+  <img src="programming.gif" alt="Computer man" style="width:48px;height:48px;">
 </div>
 <br>
 <br>
