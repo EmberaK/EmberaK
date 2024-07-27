@@ -34,11 +34,5 @@
 <br>
 <h1>Hillel IT School</h1>
 <h2>Front-end Basic</h2>
-There I learned how to translate designs
-of any complexity into layout, make
-websites that display equally well on any
-device, notice important little things and
-write code that is easy to expand and
-maintain, understand the structure of
-web pages.
+<p>In the "Front-end Basic" course, I learned the fundamentals of HTML5, CSS, and SASS, as well as the Bootstrap framework and SVG graphics. I also gained experience with version control systems using Git and the GitHub platform for project management and collaboration.</p>
 <br>
