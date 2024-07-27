@@ -3,11 +3,7 @@
   <img
     src="https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg"
     alt="a girl with a laptop" width=100% />
-  <video width="640" height="360" controls muted>
-    <source src="https://www.youtube.com/watch?v=8wvMmsWkROw&ab_channel=Protagonist" type="video/mp4">
-  </video>
-<!--       <iframe width="640" height="360" src="https://www.youtube.com/embed/VIDEO_ID?mute=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/8wvMmsWkROw?si=56tEgKgP0lfgf6AR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
 <br>
