@@ -1,14 +1,14 @@
 I'm Frontend Developer!
 
 <h1>Languages and Tools</h2>
-![HTML5]https://img.shields.io/badge/-HTML5-purple
-![CSS]https://img.shields.io/badge/-CSS-purple
-![SASS]https://img.shields.io/badge/-SASS-purple
-![BOOTSTRAP]https://img.shields.io/badge/-BOOTSTRAP-purple
-![GIT]https://img.shields.io/badge/-GIT-purple
-![SVG]https://img.shields.io/badge/-SVG-purple
-![JavaScript]https://img.shields.io/badge/-JavaScript-purple
-![DOM]https://img.shields.io/badge/-DOM-purple
+![HTML5](https://img.shields.io/badge/-HTML5-purple)
+![CSS](https://img.shields.io/badge/-CSS-purple)
+![SASS](https://img.shields.io/badge/-SASS-purple)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-purple)
+![GIT](https://img.shields.io/badge/-GIT-purple)
+![SVG](https://img.shields.io/badge/-SVG-purple)
+![JavaScript](https://img.shields.io/badge/-JavaScript-purple)
+![DOM](https://img.shields.io/badge/-DOM-purple)
 
 
 <br>
