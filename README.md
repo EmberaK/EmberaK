@@ -20,6 +20,9 @@ I'm Frontend Developer!
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="BOOTSTRAP Badge"/>
   </a>
+  <img src="https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=GIT&logoColor=white" alt="GIT Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
+
 </div>
 
 <br>
