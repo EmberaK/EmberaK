@@ -11,11 +11,12 @@ I'm Frontend Developer!
 ![DOM](https://img.shields.io/badge/-DOM-purple) -->
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS/SCSS-red?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS/SCSS Badge"/>
+ <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge"/>
+  <img src="https://img.shields.io/badge/CSS/SCSS-red?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS/SCSS Badge"/>
   <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="BOOTSTRAP Badge"/>
   <img src="https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=GIT&logoColor=white" alt="GIT Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
+
 
 </div>
 
