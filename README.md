@@ -1,7 +1,7 @@
 <h1>I'm Frontend Developer!</h1>
 
 <img
-  src="[/media/cc0-images/grapefruit-slice-332-332.jpg](https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg)"
+  src="https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg"
   alt="a girl with a laptop" />
 
 <h1>Languages and Tools</h1>
