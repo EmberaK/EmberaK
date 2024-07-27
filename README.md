@@ -1,6 +1,10 @@
 <h1>I'm Frontend Developer!</h1>
 
-<h1>Languages and Tools</h2>
+<img
+  src="[/media/cc0-images/grapefruit-slice-332-332.jpg](https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg)"
+  alt="a girl with a laptop" />
+
+<h1>Languages and Tools</h1>
 <!-- ![HTML5](https://img.shields.io/badge/-HTML5-purple)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![SASS](https://img.shields.io/badge/-SASS-purple)
