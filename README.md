@@ -18,10 +18,9 @@ I'm Frontend Developer!
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React Badge"/>
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js Badge"/>
- <img src="https://img.shields.io/badge/AJAX-007EC6?style=for-the-badge&logo=AJAX&logoColor=white" alt="AJAX Badge"/>
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery Badge"/>
- <img src="https://img.shields.io/badge/DOM-FF5733?style=for-the-badge&logo=DOM&logoColor=white" alt="DOM Badge"/>
+
 
 
 
