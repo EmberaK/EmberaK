@@ -2,7 +2,7 @@
 
 <img
   src="https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg"
-  alt="a girl with a laptop" />
+  alt="a girl with a laptop" width=200px />
 
 <h1>Languages and Tools</h1>
 <div>
