@@ -20,9 +20,13 @@
 <br>
 <br>
 <h1>Hillel IT School</h1>
-<h2>Front-end Basic</h2>
-<p>In the "Front-end Basic" course, I learned the fundamentals of HTML5, CSS, and SASS, as well as the Bootstrap framework and SVG graphics. I also gained experience with version control systems using Git and the GitHub platform for project management and collaboration.</p>
+<div>
+  <h2>Front-end Basic</h2>
+  <p>In the "Front-end Basic" course, I learned the fundamentals of HTML5, CSS, and SASS, as well as the Bootstrap framework and SVG graphics. I also gained experience with version control systems using Git and the GitHub platform for project management and collaboration.</p>
+</div>
 <br>
 <br>
-<h2>Front-end Pro</h2>
-<p>In the "Front-end Pro" course, I advanced my skills with ES6, Git, and MongoDB. I explored the Document Object Model (DOM), AJAX for asynchronous web requests, and jQuery for simplified JavaScript manipulation. I also deepened my JavaScript knowledge and learned React for building dynamic user interfaces.</p>
+<div>
+  <h2>Front-end Pro</h2>
+  <p>In the "Front-end Pro" course, I advanced my skills with ES6, Git, and MongoDB. I explored the Document Object Model (DOM), AJAX for asynchronous web requests, and jQuery for simplified JavaScript manipulation. I also deepened my JavaScript knowledge and learned React for building dynamic user interfaces.</p>
+</div>
