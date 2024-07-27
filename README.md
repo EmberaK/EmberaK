@@ -5,16 +5,7 @@
   alt="a girl with a laptop" />
 
 <h1>Languages and Tools</h1>
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-purple)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![SASS](https://img.shields.io/badge/-SASS-purple)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-purple)
-![GIT](https://img.shields.io/badge/-GIT-purple)
-![SVG](https://img.shields.io/badge/-SVG-purple)
-![JavaScript](https://img.shields.io/badge/-JavaScript-purple)
-![DOM](https://img.shields.io/badge/-DOM-purple) -->
-
-<div id="badges">
+<div>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS/SCSS Badge"/>
  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="BOOTSTRAP Badge"/>
@@ -24,10 +15,6 @@
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js Badge"/>
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery Badge"/>
-
-
-
-
 </div>
 
 <br>
@@ -36,3 +23,6 @@
 <h2>Front-end Basic</h2>
 <p>In the "Front-end Basic" course, I learned the fundamentals of HTML5, CSS, and SASS, as well as the Bootstrap framework and SVG graphics. I also gained experience with version control systems using Git and the GitHub platform for project management and collaboration.</p>
 <br>
+<br>
+<h2>Front-end Pro</h2>
+<p>In the "Front-end Pro" course, I advanced my skills with ES6, Git, and MongoDB. I explored the Document Object Model (DOM), AJAX for asynchronous web requests, and jQuery for simplified JavaScript manipulation. I also deepened my JavaScript knowledge and learned React for building dynamic user interfaces.</p>
