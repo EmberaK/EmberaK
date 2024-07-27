@@ -1,7 +1,7 @@
 <div>
   <h1>I'm Frontend Developer!</h1>
   <img
-    src="https://i.pinimg.com/originals/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg"
+    src="https://i.pinimg.com/originals/24/a2/e6/24a2e667a8986245397880e137710453.jpg"
     alt="a girl with a laptop" width=100% />
 </div>
 <br>
