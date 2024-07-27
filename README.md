@@ -2,7 +2,7 @@ I'm Frontend Developer!
 
 <h1>Languages and Tools</h2>
 ![HTML5](https://img.shields.io/badge/-HTML5-purple)
-![CSS](https://img.shields.io/badge/-CSS-purple)
+![CSS](https://img.shields.io/badge/-CSS-blue)
 ![SASS](https://img.shields.io/badge/-SASS-purple)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-purple)
 ![GIT](https://img.shields.io/badge/-GIT-purple)
@@ -10,6 +10,17 @@ I'm Frontend Developer!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-purple)
 ![DOM](https://img.shields.io/badge/-DOM-purple)
 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <br>
 <br>
