@@ -1,13 +1,14 @@
 I'm Frontend Developer!
-Languages and Tools
-!HTML5
-!CSS
-!SASS
-!BOOTSTRAP
-!GIT
-!SVG
-!JavaScript
-!DOM
+
+<h1>Languages and Tools</h2>
+https://img.shields.io/badge/-HTML5-purple
+https://img.shields.io/badge/-CSS-purple
+https://img.shields.io/badge/-SASS-purple
+https://img.shields.io/badge/-BOOTSTRAP-purple
+https://img.shields.io/badge/-GIT-purple
+https://img.shields.io/badge/-SVG-purple
+https://img.shields.io/badge/-JavaScript-purple
+https://img.shields.io/badge/-DOM-purple
 
 
 <br>
