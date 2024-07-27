@@ -1,9 +1,12 @@
 <div>
   <h1>I'm Frontend Developer!</h1>
-  <img
-  src="https://i.pinimg.com/originals/24/a2/e6/24a2e667a8986245397880e137710453.jpg"
-  alt="a girl with a laptop"
-  style="width: 100%; height: 500px; object-fit: cover;" />
+  <div style="width: 100%; height: 300px; overflow: hidden;">
+    <img
+      src="https://i.pinimg.com/originals/24/a2/e6/24a2e667a8986245397880e137710453.jpg"
+      alt="a girl with a laptop"
+      style="width: 100%; height: 100%; object-fit: cover;" />
+  </div>
+
 </div>
 <br>
 <br>
