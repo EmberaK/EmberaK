@@ -12,10 +12,17 @@ I'm Frontend Developer!
 
 <div id="badges">
  <img src="https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML Badge"/>
-  <img src="https://img.shields.io/badge/CSS/SCSS-red?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS/SCSS Badge"/>
-  <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="BOOTSTRAP Badge"/>
-  <img src="https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=GIT&logoColor=white" alt="GIT Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
+ <img src="https://img.shields.io/badge/CSS/SCSS-red?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS/SCSS Badge"/>
+ <img src="https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=BOOTSTRAP&logoColor=white" alt="BOOTSTRAP Badge"/>
+ <img src="https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=GIT&logoColor=white" alt="GIT Badge"/>
+ <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript Badge"/>
+ <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white" alt="React Badge"/>
+ <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js Badge"/>
+ <img src="https://img.shields.io/badge/AJAX-blue?style=for-the-badge&logo=AJAX&logoColor=white" alt="AJAX Badge"/>
+ <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
+ <img src="https://img.shields.io/badge/jQuery-blue?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery Badge"/>
+ <img src="https://img.shields.io/badge/DOM-blue?style=for-the-badge&logo=DOM&logoColor=white" alt="DOM Badge"/>
+
 
 
 </div>
