@@ -21,12 +21,12 @@
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=white" alt="GIT Badge"/>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=Github&logoColor=white" alt="GITHUB Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/ES6-000000?style=for-the-badge&logo=JavaScript&logoColor=white" alt="ES6 Badge"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js Badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery Badge"/>
-  <img src="https://img.shields.io/badge/DOM-000000?style=for-the-badge&logo=DOM&logoColor=white" alt="DOM Badge"/>
+<!--   <img src="https://img.shields.io/badge/ES6-000000?style=for-the-badge&logo=JavaScript&logoColor=white" alt="ES6 Badge"/>
+<!--   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React Badge"/> -->
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js Badge"/> -->
+<!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/> -->
+<!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery Badge"/> -->
+  <img src="https://img.shields.io/badge/DOM-000000?style=for-the-badge&logo=DOM&logoColor=white" alt="DOM Badge"/> -->
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=AJAX&logoColor=white" alt="AJAX Badge"/>
 
   </div>
@@ -40,8 +40,8 @@
     <p>In the "Front-end Basic" course, I learned the fundamentals of HTML5, CSS, and SASS, as well as the Bootstrap framework and SVG graphics. I also gained experience with version control systems using Git and the GitHub platform for project management and collaboration.</p>
   </div>
   <br>
-  <div>
+<!--   <div>
     <h2>Front-end Pro</h2>
     <p>In the "Front-end Pro" course, I advanced my skills with ES6, Git, and MongoDB. I explored the Document Object Model (DOM), AJAX for asynchronous web requests, and jQuery for simplified JavaScript manipulation. I also deepened my JavaScript knowledge and learned React for building dynamic user interfaces.</p>
-  </div>
+  </div> -->
 </div>
