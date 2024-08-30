@@ -26,7 +26,7 @@
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="Node.js Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB Badge"/> -->
 <!--   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery Badge"/> -->
-  <img src="https://img.shields.io/badge/DOM-000000?style=for-the-badge&logo=DOM&logoColor=white" alt="DOM Badge"/> -->
+  <img src="https://img.shields.io/badge/DOM-000000?style=for-the-badge&logo=DOM&logoColor=white" alt="DOM Badge"/> 
   <img src="https://img.shields.io/badge/AJAX-000000?style=for-the-badge&logo=AJAX&logoColor=white" alt="AJAX Badge"/>
 
   </div>
