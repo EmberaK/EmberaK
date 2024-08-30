@@ -41,7 +41,8 @@
   </div>
   <br>
   <div>
-    <h2>I am studing on Front-end Pro</h2>
-    <p>In the "Front-end Pro" course, I advanced my skills with ES6, Git, and MongoDB. I explored the Document Object Model (DOM), AJAX for asynchronous web requests, and jQuery for simplified JavaScript manipulation. I also deepened my JavaScript knowledge and learned React for building dynamic user interfaces.</p>
+<!--     <h2>I am studing on Front-end Pro</h2>
+    <p>In the "Front-end Pro" course, I advanced my skills with ES6, Git, and MongoDB. I explored the Document Object Model (DOM), AJAX for asynchronous web requests, and jQuery for simplified JavaScript manipulation. I also deepened my JavaScript knowledge and learned React for building dynamic user interfaces.</p>  -->
+<!--     <p>In the "Front-end Pro" course, I advanced my skills with ES6, Git, and MongoDB. I explored the Document Object Model (DOM), AJAX for asynchronous web requests, and jQuery for simplified JavaScript manipulation. I also deepened my JavaScript knowledge and learned React for building dynamic user interfaces.</p> -->
   </div>
 </div>
