@@ -1,6 +1,5 @@
 <h1>Добро пожаловать на страничку EmberaK!</h1>
-<br>
-<br>
+
 
 <img 
   src="https://i.pinimg.com/564x/4f/f1/ec/4ff1ecdca7cf0c0091f83fc81b0d671c.jpg"
