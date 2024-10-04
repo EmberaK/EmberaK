@@ -1,4 +1,4 @@
-<h1>Добро пожаловать на страничку EmberaK!</h1>
+<h1>Welcome to the EmberaK page!</h1>
 
 
 <img 
