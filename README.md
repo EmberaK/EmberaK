@@ -1,8 +1,12 @@
 <h>Добро пожаловать на страничку EmberaK!</h>
 <br>
+<br>
+<br>
+
 <img 
   src="https://i.pinimg.com/564x/4f/f1/ec/4ff1ecdca7cf0c0091f83fc81b0d671c.jpg"
-  alt="cool picture"/>
+  alt="cool picture"
+  style="width: 70%; height: 70%; object-fit: cover;" />
 <!-- <div>
   <h1>I'm Frontend Developer!</h1>
   <div style="width: 100%; height: 300px; overflow: hidden;">
